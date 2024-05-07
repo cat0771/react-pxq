@@ -4,7 +4,6 @@
 
 
 ## 运行项目（nodejs 6.0+）
-
 ```
  git clone https://github.com/bailicangdu/react-pxq.git
 
@@ -40,8 +39,8 @@
 [查看演示效果](https://cangdu.org/pxq/)（请用chrome的手机模式预览）
 
 ### 移动端扫描下方二维码
-![](https://github.com/bailicangdu/pxq/blob/master/screenshot/demo.png)
 
+<img src="https://github.com/bailicangdu/pxq/blob/master/screenshot/demo1.png" width="200" height="200"/>
 
 
 
